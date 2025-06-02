@@ -145,6 +145,3 @@ For more information, partnership, or technical inquiries, please visit our webs
 ---
 
 *AlProtein – Building the next generation of sustainable proteins for a healthier planet.*
-## Work Flow
-
-<img src="High-Level Architecture Diagram.png">
