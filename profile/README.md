@@ -135,12 +135,6 @@ Below is a summary of key repositories in the AlProtein organization:
 
 ---
 
-## Contact
-
-For more information, partnership, or technical inquiries, please visit our website or contact the AlProtein team.
-
-- **Website:** [www.alprotein.com](https://www.alprotein.com)
-- **Email:** info@alprotein.com
 
 ---
 
